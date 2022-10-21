@@ -1,0 +1,16 @@
+{
+"name": "game168",
+"theme": "game168",
+"version": "10.1.10",
+"description": "game168 ทางเข้าเว็บสล็อตเว็บตรง อันดับ 1 รับโบนัสเครดิตฟรี",
+"keywords": [
+"game168",
+"game168 เครดิตฟรี",
+"game168 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/game168",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
